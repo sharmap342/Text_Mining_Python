@@ -52,7 +52,7 @@
     "import numpy as np\n",
     "\n",
     "doc = [] # store all the contents of text file in a list \n",
-    "with open(r'C:\\Users\\sharm.LAPTOP-118C54MT\\OneDrive - York University\\Coursera\\Course_4\\Assignment 1\\dates.txt') as file:\n",
+    "with open(r'address\\dates.txt') as file:\n",
     "    for line in file:\n",
     "        doc.append(line)\n",
     "\n",
