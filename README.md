@@ -1,5 +1,8 @@
 # Text_Mining_Python
+These notebooks are developed to understnad the basics of text mining and text manipulation in python.           
 
-This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. The second week will focus on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. The third week will be a tutorial of functionality available in matplotlib, and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course will end with a discussion of other forms of structuring and visualizing data. 
+The first notebook describes an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. The first and second notebook describes common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes.                
 
-This course should be taken after Introduction to Data Science in Python and before the remainder of the Applied Data Science with Python courses: Applied Machine Learning in Python, Applied Text Mining in Python, and Applied Social Network Analysis in Python.
+The third notebook describes basic natural language processing methods to text, and demonstrate how text classification is accomplished.       
+
+The final notebook explores more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling). Real world data is used in notebook 3 and notebook 4 in order to better understand text manipulation and classification in python using regex and nltk libraries.      
